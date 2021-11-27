@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="24" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74509" started-at="2021-11-24T05:12:58Z" finished-at="2021-11-24T05:14:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74509" started-at="2021-11-24T05:12:58Z" finished-at="2021-11-24T05:14:13Z">
+      <class name="com.jbk.tests.DashboardPageTest">
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="2896" started-at="2021-11-24T05:13:27Z" finished-at="2021-11-24T05:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="homeLink()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="homeLink" duration-ms="123" started-at="2021-11-24T05:13:30Z" finished-at="2021-11-24T05:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLink -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="82" started-at="2021-11-24T05:13:30Z" finished-at="2021-11-24T05:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3112" started-at="2021-11-24T05:13:30Z" finished-at="2021-11-24T05:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verfiylogoutLink()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verfiylogoutLink" duration-ms="249" started-at="2021-11-24T05:13:33Z" finished-at="2021-11-24T05:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiylogoutLink -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="63" started-at="2021-11-24T05:13:33Z" finished-at="2021-11-24T05:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3105" started-at="2021-11-24T05:13:33Z" finished-at="2021-11-24T05:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyCourses()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verifyCourses" duration-ms="212" started-at="2021-11-24T05:13:36Z" finished-at="2021-11-24T05:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCourses -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="78" started-at="2021-11-24T05:13:37Z" finished-at="2021-11-24T05:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3164" started-at="2021-11-24T05:13:37Z" finished-at="2021-11-24T05:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyCoursesList()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verifyCoursesList" duration-ms="142" started-at="2021-11-24T05:13:40Z" finished-at="2021-11-24T05:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCoursesList -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="81" started-at="2021-11-24T05:13:40Z" finished-at="2021-11-24T05:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3325" started-at="2021-11-24T05:13:40Z" finished-at="2021-11-24T05:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyImage()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verifyImage" duration-ms="64" started-at="2021-11-24T05:13:43Z" finished-at="2021-11-24T05:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImage -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="77" started-at="2021-11-24T05:13:43Z" finished-at="2021-11-24T05:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3178" started-at="2021-11-24T05:13:43Z" finished-at="2021-11-24T05:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="94" started-at="2021-11-24T05:13:47Z" finished-at="2021-11-24T05:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="verifyMenuInfo()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verifyMenuInfo" duration-ms="0" started-at="2021-11-24T05:13:47Z" finished-at="2021-11-24T05:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuInfo -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="browserIntialsation" is-config="true" duration-ms="3090" started-at="2021-11-24T05:13:47Z" finished-at="2021-11-24T05:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyMenuList()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="verifyMenuList" duration-ms="107" started-at="2021-11-24T05:13:50Z" finished-at="2021-11-24T05:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuList -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.DashboardPageTest@548b7f67]" name="driverClose" is-config="true" duration-ms="80" started-at="2021-11-24T05:13:50Z" finished-at="2021-11-24T05:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.jbk.tests.DashboardPageTest -->
+      <class name="com.jbk.tests.LoginPageTest">
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="3081" started-at="2021-11-24T05:12:58Z" finished-at="2021-11-24T05:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verfiyHeading()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verfiyHeading" duration-ms="59" started-at="2021-11-24T05:13:02Z" finished-at="2021-11-24T05:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyHeading -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="88" started-at="2021-11-24T05:13:02Z" finished-at="2021-11-24T05:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2290" started-at="2021-11-24T05:13:02Z" finished-at="2021-11-24T05:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verfiyLogo()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verfiyLogo" duration-ms="83" started-at="2021-11-24T05:13:04Z" finished-at="2021-11-24T05:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyLogo -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="82" started-at="2021-11-24T05:13:04Z" finished-at="2021-11-24T05:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2363" started-at="2021-11-24T05:13:04Z" finished-at="2021-11-24T05:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyAdddingNewMember()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyAdddingNewMember" duration-ms="533" started-at="2021-11-24T05:13:07Z" finished-at="2021-11-24T05:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdddingNewMember -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="69" started-at="2021-11-24T05:13:07Z" finished-at="2021-11-24T05:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2349" started-at="2021-11-24T05:13:07Z" finished-at="2021-11-24T05:13:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyEmailPlaceholder()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyEmailPlaceholder" duration-ms="36" started-at="2021-11-24T05:13:09Z" finished-at="2021-11-24T05:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailPlaceholder -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="71" started-at="2021-11-24T05:13:10Z" finished-at="2021-11-24T05:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2476" started-at="2021-11-24T05:13:10Z" finished-at="2021-11-24T05:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyInfoMessage()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyInfoMessage" duration-ms="36" started-at="2021-11-24T05:13:12Z" finished-at="2021-11-24T05:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInfoMessage -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="81" started-at="2021-11-24T05:13:12Z" finished-at="2021-11-24T05:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2343" started-at="2021-11-24T05:13:12Z" finished-at="2021-11-24T05:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyNewMemberLink()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyNewMemberLink" duration-ms="39" started-at="2021-11-24T05:13:15Z" finished-at="2021-11-24T05:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewMemberLink -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="76" started-at="2021-11-24T05:13:15Z" finished-at="2021-11-24T05:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2445" started-at="2021-11-24T05:13:15Z" finished-at="2021-11-24T05:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyPassordPlaceholder()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyPassordPlaceholder" duration-ms="50" started-at="2021-11-24T05:13:17Z" finished-at="2021-11-24T05:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPassordPlaceholder -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="77" started-at="2021-11-24T05:13:17Z" finished-at="2021-11-24T05:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2313" started-at="2021-11-24T05:13:17Z" finished-at="2021-11-24T05:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyRegisterNewMember()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyRegisterNewMember" duration-ms="224" started-at="2021-11-24T05:13:20Z" finished-at="2021-11-24T05:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterNewMember -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="66" started-at="2021-11-24T05:13:20Z" finished-at="2021-11-24T05:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2336" started-at="2021-11-24T05:13:20Z" finished-at="2021-11-24T05:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifySubHeading()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifySubHeading" duration-ms="62" started-at="2021-11-24T05:13:22Z" finished-at="2021-11-24T05:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubHeading -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="83" started-at="2021-11-24T05:13:22Z" finished-at="2021-11-24T05:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="browserIntialsation" is-config="true" duration-ms="2444" started-at="2021-11-24T05:13:22Z" finished-at="2021-11-24T05:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="verifyValidLogin" duration-ms="1873" started-at="2021-11-24T05:13:25Z" finished-at="2021-11-24T05:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.LoginPageTest@6d8a00e3]" name="driverClose" is-config="true" duration-ms="70" started-at="2021-11-24T05:13:27Z" finished-at="2021-11-24T05:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.jbk.tests.LoginPageTest -->
+      <class name="com.jbk.tests.UserPageTest">
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="2941" started-at="2021-11-24T05:13:50Z" finished-at="2021-11-24T05:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="countState()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="countState" duration-ms="24" started-at="2021-11-24T05:13:53Z" finished-at="2021-11-24T05:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countState -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="75" started-at="2021-11-24T05:13:53Z" finished-at="2021-11-24T05:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="2959" started-at="2021-11-24T05:13:53Z" finished-at="2021-11-24T05:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="countUser()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="countUser" duration-ms="36" started-at="2021-11-24T05:13:56Z" finished-at="2021-11-24T05:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countUser -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="86" started-at="2021-11-24T05:13:56Z" finished-at="2021-11-24T05:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="2818" started-at="2021-11-24T05:13:56Z" finished-at="2021-11-24T05:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="FAIL" signature="verfiyAddUser()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="verfiyAddUser" duration-ms="538" started-at="2021-11-24T05:13:59Z" finished-at="2021-11-24T05:13:59Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"/input[@placeholder='Password']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SD5V08D', ip: '192.168.56.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\rahul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e564f39713db7c6cf60243321d44dd2
+*** Element info: {Using=xpath, value=/input[@placeholder='Password']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/input[@placeholder='Password']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SD5V08D', ip: '192.168.56.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\rahul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e564f39713db7c6cf60243321d44dd2
+*** Element info: {Using=xpath, value=/input[@placeholder='Password']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy7.sendKeys(Unknown Source)
+at com.jbk.pages.UserPage.verfiyAddUser(UserPage.java:59)
+at com.jbk.tests.UserPageTest.verfiyAddUser(UserPageTest.java:44)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyAddUser -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="79" started-at="2021-11-24T05:13:59Z" finished-at="2021-11-24T05:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="3278" started-at="2021-11-24T05:14:00Z" finished-at="2021-11-24T05:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyDeleteAction()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="verifyDeleteAction" duration-ms="126" started-at="2021-11-24T05:14:03Z" finished-at="2021-11-24T05:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteAction -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="76" started-at="2021-11-24T05:14:03Z" finished-at="2021-11-24T05:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="3153" started-at="2021-11-24T05:14:03Z" finished-at="2021-11-24T05:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyLabelOfAddUser()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="verifyLabelOfAddUser" duration-ms="407" started-at="2021-11-24T05:14:06Z" finished-at="2021-11-24T05:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLabelOfAddUser -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="72" started-at="2021-11-24T05:14:07Z" finished-at="2021-11-24T05:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="2764" started-at="2021-11-24T05:14:07Z" finished-at="2021-11-24T05:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyStateList()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="verifyStateList" duration-ms="279" started-at="2021-11-24T05:14:09Z" finished-at="2021-11-24T05:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStateList -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="78" started-at="2021-11-24T05:14:10Z" finished-at="2021-11-24T05:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="browserIntialsation()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="browserIntialsation" is-config="true" duration-ms="2910" started-at="2021-11-24T05:14:10Z" finished-at="2021-11-24T05:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialsation -->
+        <test-method status="PASS" signature="verifyTableHeading()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="verifyTableHeading" duration-ms="169" started-at="2021-11-24T05:14:13Z" finished-at="2021-11-24T05:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableHeading -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.jbk.tests.UserPageTest@7ac7a4e4]" name="driverClose" is-config="true" duration-ms="61" started-at="2021-11-24T05:14:13Z" finished-at="2021-11-24T05:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.jbk.tests.UserPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
